@@ -41,5 +41,7 @@ ros-jazzy-ros-base
 ros-jazzy-ros2-control
 ros-jazzy-ros2-controllers
 ros-jazzy-tf-transformations
+ros-jazzy-ros-gz
+ros-jazzy-rviz2
 ros2-apt-source
 
