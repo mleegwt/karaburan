@@ -169,6 +169,12 @@ Consequently, `/scan` adds approximately 2 GB over two sailing days, despite its
 5.8 Hz rate. Actual compression depends heavily on the environment and intensity
 values. Measure the first real voyage with `du -sh` and adjust this estimate.
 
+### Foxglove visualization demo
+
+The [Foxglove demo](foxglove/README.md) includes a synthetic MCAP recording and
+a reusable user script that colors the travelled GPS route by measured water
+temperature.
+
 If two days later means **48 hours of continuous recording**, reserve
 approximately 12 GB without `/scan` or 18 GB with `/scan`. In practice, keep at
 least 16 GB free without LiDAR and 32 GB when recording LiDAR. This allows space
